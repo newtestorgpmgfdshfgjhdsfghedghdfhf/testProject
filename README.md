@@ -12,7 +12,7 @@ This `README.md` file is currently a placeholder. You should update it to includ
 - Usage examples.
 - How to contribute.
 
-## 🛠️ Project Structure
+## 🛠️ Project Structurefdsa
 
 This project uses **MergeFirst** for automated branch management and project setup.
 
